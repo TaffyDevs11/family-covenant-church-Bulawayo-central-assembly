@@ -1,0 +1,195 @@
+{
+    "generated_at": "2026-09-29T00:15:17+02:00",
+    "site_url": "",
+    "settings": {
+        "church_name": "",
+        "address": "Bulawayo Central Assembly, Bulawayo, Zimbabwe",
+        "map_query": "Family Covenant Church Bulawayo",
+        "phone": "",
+        "email": "",
+        "whatsapp": "",
+        "facebook": "",
+        "instagram": "",
+        "youtube_url": "",
+        "youtube_channel_id": "",
+        "service_times": "[{\"day\":0,\"time\":\"08:00\",\"end\":\"12:00\",\"label\":\"First Service\"},{\"day\":0,\"time\":\"13:00\",\"end\":\"15:00\",\"label\":\"Youth Service\"}]"
+    },
+    "services": [
+        {
+            "day": 0,
+            "time": "08:00",
+            "end": "12:00",
+            "label": "First Service"
+        },
+        {
+            "day": 0,
+            "time": "13:00",
+            "end": "15:00",
+            "label": "Youth Service"
+        }
+    ],
+    "sermons": [],
+    "posts": [
+        {
+            "id": 1,
+            "slug": "walking-in-covenant",
+            "title": "Walking in covenant: God keeps His promises",
+            "excerpt": "A covenant is more than a contract — it is a relationship sealed by love. Here is what that means for you this week.",
+            "body": "<p>Throughout Scripture, God reveals Himself as a covenant-keeping God. When He made a promise to Abraham, He bound Himself by His own name, because there was no one greater to swear by (Hebrews 6:13).</p><h2>Covenant is relationship</h2><p>A contract says, “I will do my part if you do yours.” A covenant says, “I am yours, and you are mine.” That is the heart of the Gospel: in Christ, God has drawn us into His family.</p><blockquote>“Know therefore that the Lord your God, He is God, the faithful God who keeps covenant and mercy for a thousand generations with those who love Him.” — Deuteronomy 7:9</blockquote><h2>Living it out</h2><p>This week, take a moment each morning to thank God for one promise He has kept in your life. Share it with someone in your family or small group. Faith grows when testimonies are spoken.</p>",
+            "cover": "/assets/img/pastors-seated.webp",
+            "author": "Bishop Henry Muzhari",
+            "published_at": "2026-09-25"
+        },
+        {
+            "id": 2,
+            "slug": "praying-for-your-family",
+            "title": "Five ways to pray for your family this week",
+            "excerpt": "Simple, Scripture-based prayers you can pray over your home, your marriage and your children.",
+            "body": "<p>Prayer is the foundation of a strong home. Here are five simple ways to pray for your family this week:</p><ol><li><strong>For peace</strong> — “Let the peace of God rule in your hearts” (Colossians 3:15).</li><li><strong>For protection</strong> — pray Psalm 91 over every member of your household.</li><li><strong>For unity</strong> — ask God to knit your hearts together in love.</li><li><strong>For provision</strong> — thank God in advance for meeting every need.</li><li><strong>For purpose</strong> — pray that each child discovers the calling God has placed on their life.</li></ol><p>Join us this Sunday as we stand together in prayer for our families.</p>",
+            "cover": "/assets/img/reverend-teal.webp",
+            "author": "Reverend Eunice Muzhari",
+            "published_at": "2026-09-18"
+        },
+        {
+            "id": 3,
+            "slug": "welcome-to-our-new-website",
+            "title": "Welcome to our new website",
+            "excerpt": "Watch services live, catch up on sermons, stay up to date with announcements and find your place in the family.",
+            "body": "<p>We are excited to welcome you to the new home of Family Covenant Church Bulawayo Central Assembly online.</p><p>Here you can watch our services live, catch up on past sermons, read devotionals from our pastors, see what is happening this week and this month, and join one of our ministries or departments.</p><p>We look forward to seeing you in person soon!</p>",
+            "cover": "/assets/img/pastors.webp",
+            "author": "FCC Media Team",
+            "published_at": "2026-09-14"
+        }
+    ],
+    "announcements": [
+        {
+            "id": 1,
+            "title": "Sunday Services",
+            "body": "Join us every Sunday for the First Service from 8:00 to 12:00, followed by the Youth Service from 13:00 to 15:00. Bring a friend — there is a seat for everyone!",
+            "category": "weekly",
+            "poster": null,
+            "event_date": null,
+            "starts_on": "2026-09-21",
+            "ends_on": null,
+            "pinned": 1,
+            "published": 1,
+            "created_at": "2026-09-28 23:52:03"
+        },
+        {
+            "id": 2,
+            "title": "Youth Service",
+            "body": "Every Sunday from 13:00 to 15:00. Worship, the Word and real friendships for the next generation.",
+            "category": "weekly",
+            "poster": null,
+            "event_date": null,
+            "starts_on": "2026-09-21",
+            "ends_on": null,
+            "pinned": 0,
+            "published": 1,
+            "created_at": "2026-09-28 23:52:03"
+        },
+        {
+            "id": 5,
+            "title": "Youth Night",
+            "body": "Games, worship and a word for the next generation. Ages 13–30.",
+            "category": "event",
+            "poster": null,
+            "event_date": "2026-10-03",
+            "starts_on": "2026-09-27",
+            "ends_on": "2026-10-03",
+            "pinned": 0,
+            "published": 1,
+            "created_at": "2026-09-28 23:52:03"
+        },
+        {
+            "id": 3,
+            "title": "Men's Fellowship Breakfast",
+            "body": "All men are invited to a morning of food, fellowship and the Word. Invite a brother!",
+            "category": "monthly",
+            "poster": null,
+            "event_date": "2026-10-10",
+            "starts_on": "2026-09-26",
+            "ends_on": "2026-10-10",
+            "pinned": 0,
+            "published": 1,
+            "created_at": "2026-09-28 23:52:03"
+        },
+        {
+            "id": 4,
+            "title": "Women's Ministry Fellowship",
+            "body": "An afternoon of worship, teaching and encouragement for all women. Wear something pink!",
+            "category": "monthly",
+            "poster": null,
+            "event_date": "2026-10-17",
+            "starts_on": "2026-09-26",
+            "ends_on": "2026-10-17",
+            "pinned": 0,
+            "published": 1,
+            "created_at": "2026-09-28 23:52:03"
+        }
+    ],
+    "albums": [
+        {
+            "id": 1,
+            "title": "Our Senior Pastors",
+            "n": 6,
+            "cover": "/uploads/gallery/tm3gqu-605bb7790e-t.webp"
+        }
+    ],
+    "photos": [
+        {
+            "id": 6,
+            "album_id": 1,
+            "file": "/uploads/gallery/tm3gqu-605bb7790e.webp",
+            "thumb": "/uploads/gallery/tm3gqu-605bb7790e-t.webp",
+            "width": 900,
+            "height": 1125,
+            "caption": "Bishop Henry & Reverend Eunice Muzhari"
+        },
+        {
+            "id": 5,
+            "album_id": 1,
+            "file": "/uploads/gallery/tm3gqt-8226f85f4e.webp",
+            "thumb": "/uploads/gallery/tm3gqt-8226f85f4e-t.webp",
+            "width": 853,
+            "height": 1280,
+            "caption": "Bishop Henry & Reverend Eunice Muzhari"
+        },
+        {
+            "id": 4,
+            "album_id": 1,
+            "file": "/uploads/gallery/tm3gqt-3c844017fe.webp",
+            "thumb": "/uploads/gallery/tm3gqt-3c844017fe-t.webp",
+            "width": 853,
+            "height": 1280,
+            "caption": "Bishop Henry & Reverend Eunice Muzhari"
+        },
+        {
+            "id": 3,
+            "album_id": 1,
+            "file": "/uploads/gallery/tm3gqs-80cf12c0ff.webp",
+            "thumb": "/uploads/gallery/tm3gqs-80cf12c0ff-t.webp",
+            "width": 854,
+            "height": 1280,
+            "caption": "Bishop Henry & Reverend Eunice Muzhari"
+        },
+        {
+            "id": 2,
+            "album_id": 1,
+            "file": "/uploads/gallery/tm3gqs-9047fa6c27.webp",
+            "thumb": "/uploads/gallery/tm3gqs-9047fa6c27-t.webp",
+            "width": 1280,
+            "height": 853,
+            "caption": "Bishop Henry & Reverend Eunice Muzhari"
+        },
+        {
+            "id": 1,
+            "album_id": 1,
+            "file": "/uploads/gallery/tm3gqr-ddac5faa76.webp",
+            "thumb": "/uploads/gallery/tm3gqr-ddac5faa76-t.webp",
+            "width": 1280,
+            "height": 1024,
+            "caption": "Bishop Henry & Reverend Eunice Muzhari"
+        }
+    ]
+}
